@@ -6,7 +6,7 @@ I'm a product designer who also ships the code. 8+ years in SaaS, mobile and web
 
 ### Products I designed and built
 
-| | |
+| Product | What it is |
 |---|---|
 | **[Wayly](https://wayly.cc)** | Fog-of-war map app for hiking, running and cycling. Walk to reveal the map, plan routes on real trails, sync with Garmin. iOS and Android, built in Flutter with Supabase. |
 | **[Startlek](https://startlek.com)** | Sports events calendar for Ukraine and Central Europe: find races, register online, organisers publish their own events. Next.js + Supabase. |
